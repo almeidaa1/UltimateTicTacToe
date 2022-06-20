@@ -2,7 +2,7 @@
 ### Ultimate Tic Tac Toe game made in C, where u can play with your friends or against a DI (!AI).
 ### Good Luck :)
 
-### - Contain :
+### - Contains :
 > ### Basic C Knowledge
 > ### Pointers
 > ### Linked Lists
