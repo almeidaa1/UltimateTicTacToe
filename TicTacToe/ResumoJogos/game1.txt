@@ -1,0 +1,168 @@
+	      ###########
+	       Jogada N.                     - JOGADOR [ 1 ] vs JOGADOR [ 2 ] -
+	      ###########
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 1 }	  O Jogador [ 2 ] Jogou Na Posicao (0,1) Do Tabuleiro [ 1 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 2 }	  O Jogador [ 1 ] Jogou Na Posicao (0,3) Do Tabuleiro [ 2 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 3 }	  O Jogador [ 2 ] Jogou Na Posicao (1,1) Do Tabuleiro [ 1 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 4 }	  O Jogador [ 1 ] Jogou Na Posicao (3,3) Do Tabuleiro [ 5 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 5 } O Jogador [ 2 ] Jogou Na Posicao (2,1) Do Tabuleiro [ 1 ] e Conquistou-o !!!
+							FANTASTICO !!
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+				=============================================================
+				||      Mini Tabuleiros Conquistados Ate Ao Momenento      ||
+
+				||     Jogador [ 1 ] - | 0 |     Jogador [ 2 ] - | 1 |     ||
+				=============================================================
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 6 }	  O Jogador [ 1 ] Jogou Na Posicao (6,3) Do Tabuleiro [ 8 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 7 }	  O Jogador [ 2 ] Jogou Na Posicao (1,3) Do Tabuleiro [ 2 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 8 }	  O Jogador [ 1 ] Jogou Na Posicao (3,1) Do Tabuleiro [ 4 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 9 }	  O Jogador [ 2 ] Jogou Na Posicao (1,4) Do Tabuleiro [ 2 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 10 }	  O Jogador [ 1 ] Jogou Na Posicao (4,3) Do Tabuleiro [ 5 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 11 }	  O Jogador [ 2 ] Jogou Na Posicao (4,1) Do Tabuleiro [ 4 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 12 } O Jogador [ 1 ] Jogou Na Posicao (5,3) Do Tabuleiro [ 5 ] e Conquistou-o !!!
+							FANTASTICO !!
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+				=============================================================
+				||      Mini Tabuleiros Conquistados Ate Ao Momenento      ||
+
+				||     Jogador [ 1 ] - | 1 |     Jogador [ 2 ] - | 1 |     ||
+				=============================================================
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 13 }	  O Jogador [ 2 ] Jogou Na Posicao (6,1) Do Tabuleiro [ 7 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 14 }	  O Jogador [ 1 ] Jogou Na Posicao (2,4) Do Tabuleiro [ 2 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 15 }	  O Jogador [ 2 ] Jogou Na Posicao (7,3) Do Tabuleiro [ 8 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 16 }	  O Jogador [ 1 ] Jogou Na Posicao (3,2) Do Tabuleiro [ 4 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 17 }	  O Jogador [ 2 ] Jogou Na Posicao (0,7) Do Tabuleiro [ 3 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 18 }	  O Jogador [ 1 ] Jogou Na Posicao (1,5) Do Tabuleiro [ 2 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 19 }	  O Jogador [ 2 ] Jogou Na Posicao (5,6) Do Tabuleiro [ 6 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 20 }	  O Jogador [ 1 ] Jogou Na Posicao (7,0) Do Tabuleiro [ 7 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 21 }	  O Jogador [ 2 ] Jogou Na Posicao (5,1) Do Tabuleiro [ 4 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 22 }	  O Jogador [ 1 ] Jogou Na Posicao (8,3) Do Tabuleiro [ 8 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 23 }	  O Jogador [ 2 ] Jogou Na Posicao (8,0) Do Tabuleiro [ 7 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 24 }	  O Jogador [ 1 ] Jogou Na Posicao (7,1) Do Tabuleiro [ 7 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 25 }	  O Jogador [ 2 ] Jogou Na Posicao (8,6) Do Tabuleiro [ 9 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 26 } O Jogador [ 1 ] Jogou Na Posicao (7,2) Do Tabuleiro [ 7 ] e Conquistou-o !!!
+							FANTASTICO !!
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+				=============================================================
+				||      Mini Tabuleiros Conquistados Ate Ao Momenento      ||
+
+				||     Jogador [ 1 ] - | 2 |     Jogador [ 2 ] - | 1 |     ||
+				=============================================================
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 27 }	  O Jogador [ 2 ] Jogou Na Posicao (3,8) Do Tabuleiro [ 6 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 28 }	  O Jogador [ 1 ] Jogou Na Posicao (2,6) Do Tabuleiro [ 3 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 29 }	  O Jogador [ 2 ] Jogou Na Posicao (6,8) Do Tabuleiro [ 9 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 30 }	  O Jogador [ 1 ] Jogou Na Posicao (1,7) Do Tabuleiro [ 3 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 31 }	  O Jogador [ 2 ] Jogou Na Posicao (0,5) Do Tabuleiro [ 2 ] 
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+	           { 32 } O Jogador [ 1 ] Jogou Na Posicao (0,8) Do Tabuleiro [ 3 ] e Conquistou-o !!!
+							FANTASTICO !!
+
+				= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+				=============================================================
+				||      Mini Tabuleiros Conquistados Ate Ao Momenento      ||
+
+				||     Jogador [ 1 ] - | 3 |     Jogador [ 2 ] - | 1 |     ||
+				=============================================================
+
+				       !!! Parabens Jogador [ 1 ], Ganhaste o Jogo !!!
