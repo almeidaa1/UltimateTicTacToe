@@ -1,0 +1,8 @@
+{
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "functions.h": "c",
+    "funcoes.h": "c",
+    "AF.C": "cpp"
+  }
+}
