@@ -1,5 +1,5 @@
 # UltimateTicTacToe
-### Ultimate Tic Tac Toe game made in C, where u can play with your friends or against an DI (!AI).
+### Ultimate Tic Tac Toe game made in C, where u can play with your friends or against a DI (!AI).
 ## Good Luck :)
 
 ### - Contain :
@@ -20,6 +20,8 @@
 ![](Final%20Project%20Images/EndOfGame.png)
 ## Summary Of The Game
 ![](Final%20Project%20Images/ResumeOfTheGame.png)
+## See You Later :)
+![](Final%20Project%20Images/SeeYouLater.png)
 
 ### Build 
 ### `gcc -o main *.c`
