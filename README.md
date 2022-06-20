@@ -5,6 +5,7 @@
 ### - Contains :
 > ### Basic C Knowledge
 > ### Pointers
+> Structs
 > ### Linked Lists
 > ### Files ( Reading And Writing )
 
