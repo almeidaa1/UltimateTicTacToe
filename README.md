@@ -17,7 +17,7 @@
 ![](Final%20Project%20Images/LastPlaysSection.png)
 ## Winner
 ![](Final%20Project%20Images/Winner.png)
-## End Game
+## End Of Game
 ![](Final%20Project%20Images/EndOfGame.png)
 ## Summary Of The Game
 ![](Final%20Project%20Images/ResumeOfTheGame.png)
